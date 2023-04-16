@@ -1,0 +1,26 @@
+#data{
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+body{
+    background-color: #E9EDC9;
+}
+table{
+    font-family: 'Courier New', Courier, monospace;
+    width: 70%;
+    font-weight: bold;
+}
+th{
+    height: 60px;
+    background-color: #609966;
+}
+tr{
+    text-align: center;
+    font-size: larger;
+    background-color: #ABC4AA;
+}
+td {
+    padding: 20 30px;
+  }
