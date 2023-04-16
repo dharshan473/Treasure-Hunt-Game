@@ -21,7 +21,9 @@ aptitude reasoning<br><br>
 Method of evaluation of soft skills:<br><br>
 
 based on the capability of solving the clues<br><br>
-
+if score >= 2000 then the result if perfect.<br>
+if score >= 100 and score < 2000 then the result is best<br>
+if score is < 1000 then the result is satisfactory<br><br>
 technical features included:<br><br>
 
 1.Anyone with an email id and password can participate in the game.<br>
