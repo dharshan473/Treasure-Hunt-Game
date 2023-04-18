@@ -5,6 +5,9 @@ A fun and interactive game to analyse your softskills.<br>
 The player has to solve the given puzzles to find the hints to the hidden gold and treasure,The game ends if the player manages to find all the hidden treasure.<br>
 The game analyses various softskills of the player such as logical thinking, eye for detail etc..<br><br>
 
+**NOTE**
+**avoid using  brave browser**
+
 Technologies used:<br>
 front-end: html,css,javascript<br>
 backend: php,mysql<br><br>
@@ -34,6 +37,8 @@ technical features included:<br><br>
 6.Score will be displayed for every move the player makes throughout the game.<br>
 7.The player can store the score in the database if he/she wishes.<br>
 8.click the provided link to play the game.<br><br>
+
+
 
 
 Test cases:<br><br>
