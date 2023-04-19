@@ -1,7 +1,7 @@
 
 **TREASURE HUNT**
 
-A fun and interactive game to analyse your softskills.<br>
+A fun and interactive game to analyse your soft skills.<br>
 The player has to solve the given puzzles to find the hints to the hidden gold and treasure,The game ends if the player manages to find all the hidden treasure.<br>
 The game analyses various softskills of the player such as logical thinking, eye for detail etc..<br><br>
 
