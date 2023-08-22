@@ -30,13 +30,13 @@ if score is < 1000 then the result is satisfactory<br><br>
 technical features included:<br><br>
 
 1.Anyone with an email id and password can participate in the game.<br>
-2.If the player is new to the game then he/she should sign before playing.<br>
-3.The game has 2 treasures and some gold which can be attained by solving the puzzles displayed in the game.<br>
+2.If the player is new to the game then he/she should sign in before playing.<br>
+3.The game has 2 treasures and some gold which can be collected by solving the puzzles displayed in the game.<br>
 4.For every wrong move the player makes, life of the player will be reduced.<br>
 5.The player has to solve all the puzzles either before the timer ends or before the lives exhaust.<br>
 6.Score will be displayed for every move the player makes throughout the game.<br>
 7.The player can store the score in the database if he/she wishes.<br>
-8.click the provided link to play the game.<br><br>
+
 
 
 
